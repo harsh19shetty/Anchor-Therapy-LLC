@@ -1,4 +1,6 @@
 # Anchor-Therapy-LLC
+Note - This project was done as a part of the Practicum in Analysis course in BIA at Stevens Institute of Technology.
+
 Anchor Therapy is a mental health counseling center in downtown Hoboken, NJ operated by two therapists. Their mission is to help you, or your teen, feel relief from whatever stress one’s dealing with. Our focus is on devising the right marketing strategy for Anchor Therapy to deliver optimal solutions to maximize public interest that translates into increasing her client base. 
 
 Initial days were utilised to understand the clent base in and around the city of Hoboken and Jersey City to an extent. This followed by extensive research on clinics like Starr Therapy, LLC and Lukin Center, who offered therapy sessions in Hoboken itself. We studied various features like demograph, cost, time, etc. The approach we took was to enrich UX by developing a Chatbot for Anchor's website and target the right audience by understanding Twitter posts in Hoboken and Jersey City. 
